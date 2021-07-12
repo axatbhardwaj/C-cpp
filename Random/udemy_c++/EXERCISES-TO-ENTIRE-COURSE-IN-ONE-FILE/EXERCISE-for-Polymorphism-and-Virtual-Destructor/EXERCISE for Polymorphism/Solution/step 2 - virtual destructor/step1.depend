@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1478094482 source:k:\video kursy en\cpp\exercises\exercise-for-polymorphism-and-virtual-destructor\exercise for polymorphism\solution\step 2 - virtual destructor\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1478094404 k:\video kursy en\cpp\exercises\exercise-for-polymorphism-and-virtual-destructor\exercise for polymorphism\solution\step 2 - virtual destructor\circle.h
+	"Shape.h"
+
+1508147584 k:\video kursy en\cpp\exercises\exercise-for-polymorphism-and-virtual-destructor\exercise for polymorphism\solution\step 2 - virtual destructor\shape.h
+	<iostream>
+
+1478095024 source:k:\video kursy en\cpp\exercises\exercise-for-polymorphism-and-virtual-destructor\exercise for polymorphism\solution\step 2 - virtual destructor\main.cpp
+	"Rectangle.h"
+	"Circle.h"
+	<iostream>
+
+1478094397 k:\video kursy en\cpp\exercises\exercise-for-polymorphism-and-virtual-destructor\exercise for polymorphism\solution\step 2 - virtual destructor\rectangle.h
+	"Shape.h"
+
+1478094485 source:k:\video kursy en\cpp\exercises\exercise-for-polymorphism-and-virtual-destructor\exercise for polymorphism\solution\step 2 - virtual destructor\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
